@@ -1,0 +1,28 @@
+{
+    "events": [ 
+        {
+            "id": 1,
+            "name": "Throwback Fridays with Femidevs Band",
+            "slug": "throwback-fridays-femidevs" ,
+            "venue": "Horizon Center",
+            "address": "600, 13th Avenue, Kisumu",
+            "performers": "03 Nikita Kering",
+            "date": "November 15, 2021",
+            "time": "9:00 PM GMT+3",
+            "description": "featuring dances, party anthems and nolstagic songs from the best years of music",
+            "image": "dummy image"
+        },
+        {
+            "id": 2,
+            "name": "Dance Festival experience",
+            "slug": "dance-festivals-femidevs" ,
+            "venue": "RackJacks",
+            "address": "1100, 23rd Avenue, Kisumu",
+            "performers": "DJ Perex",
+            "date": "November 20, 2021",
+            "time": "9:00 PM GMT+3",
+            "description": "featuring classicals, violins and party songs from theearly 2000",
+            "image": "dummy image"
+        }
+    ]
+}
